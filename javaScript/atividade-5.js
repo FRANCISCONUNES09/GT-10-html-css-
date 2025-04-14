@@ -10,3 +10,4 @@ function calcularAluguel(dias){
 }
 
 calcularAluguel(5)
+calcularAluguel(10)
