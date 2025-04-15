@@ -42,7 +42,6 @@ function calcularIMC(user){
     if(imc >= 40){
         return console.log("Obesidade de grau III")
     }
-
 }
 
 calcularIMC(user)
