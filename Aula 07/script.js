@@ -34,7 +34,7 @@ function calcular(){
      }
  
       if(imc >= 17 && imc < 18.5){
-        mensagem = "Magreza Leve"
+        mensagem = "Você está abaixo do peso"
      }
  
      if(imc >= 18.6 && imc < 24.9){
